@@ -1,13 +1,11 @@
-#Lucas Blandin
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+# Lucas Blandin
+I'm Lucas, fullstack developer in .NET en VueJs. I really enjoy learning languages and frameworks like Flutter, as well as work in WordPress. I also enjoy design. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## Skills and Experience
+*  VueJs
+* 📱 .NET
+* 💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
+## Examples of Work
