@@ -1,7 +1,7 @@
+# Hi, i'm Lucas Blandin 
 ![Banner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-# Lucas Blandin
-I'm Lucas, fullstack developer .NET and VueJs in sandwich course. I really enjoy learning new languages and frameworks like Flutter, as well as work in WordPress.
+I'm Lucas, fullstack developer .NET and VueJs and computer science student. I really enjoy learning new languages and frameworks like Flutter, as well as work in WordPress.
 
 ## Skills and Experience
 *   VueJs
