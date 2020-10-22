@@ -2,7 +2,7 @@
 
 I'm Lucas, fullstack developer .NET and VueJs and computer science student. I really enjoy learning new languages and frameworks like Flutter, as well as work in WordPress.
 
-## Skills and Experience
+## Skills
 * VueJs
 * Flutter
 * C# and .NET
