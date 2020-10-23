@@ -10,4 +10,4 @@ I'm Lucas, fullstack developer .NET and VueJs and computer science student. I re
 
 ## Contact
 
-
+Linkedin free icon
