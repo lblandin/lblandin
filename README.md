@@ -10,5 +10,5 @@ I'm Lucas, fullstack developer .NET and VueJs and computer science student. I re
 
 ## Contact
 
-Linkedin : https://www.linkedin.com/in/lucasblandin/
-Contact : lucasblandin@hotmail.fr
+* Linkedin : https://www.linkedin.com/in/lucasblandin/
+* Contact : lucasblandin@hotmail.fr
